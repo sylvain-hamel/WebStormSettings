@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="ESList Fix" description="Automatically lint issues" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\node.exe" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\skyjs-cli\node_modules\eslint\bin\eslint --fix ." />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="ESList Fix This File" description="Automatically lint issues" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\node.exe" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\skyjs-cli\node_modules\eslint\bin\eslint --fix $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="thg history" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="&quot;C:\Program Files\TortoiseHg\thg.exe&quot;" />
+      <option name="PARAMETERS" value="filelog $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

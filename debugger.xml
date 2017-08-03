@@ -1,0 +1,25 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <option name="showValuesInline" value="false" />
+      <show-values-inline>false</show-values-inline>
+    </data-views>
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation enabled="true">
+            <properties>
+              <property value="id" />
+              <property value="initialID" />
+              <property value="key" />
+              <property value="name" />
+            </properties>
+          </custom-object-presentation>
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

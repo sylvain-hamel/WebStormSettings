@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Test1">
+      <action id="TabsPlacementNone" />
+    </macro>
+  </component>
+</application>

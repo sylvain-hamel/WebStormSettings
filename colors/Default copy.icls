@@ -1,0 +1,18 @@
+<scheme name="Default copy" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.3" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <attributes>
+    <option name="DEFAULT_TAG">
+      <value />
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="EFFECT_COLOR" value="bfbfbf" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -1,0 +1,15 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="SHOW_NOTIFICATION_AFTER_REFORMAT_CODE_ACTION" value="false" />
+    <option name="SHOW_NOTIFICATION_AFTER_OPTIMIZE_IMPORTS_ACTION" value="false" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="automaticallyInsertRequiredAttributes" value="false" />
+    <option name="automaticallyInsertRequiredSubTags" value="false" />
+    <option name="automaticallyStartAttribute" value="false" />
+    <option name="insertQuotesForAttributeValue" value="false" />
+  </component>
+</application>

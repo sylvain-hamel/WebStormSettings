@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="octosr01.esitechnologies.com:8080/master" value="shamel" />
+      </map>
+    </option>
+  </component>
+</application>

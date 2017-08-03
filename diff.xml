@@ -1,0 +1,77 @@
+<application>
+  <component name="DiffManager">
+    <enableFiles value="true" />
+    <enableMerge value="true" />
+    <filesTool value="&quot;C:\Program Files (x86)\Beyond Compare 3\BCompare.exe&quot;" newValue="&quot;C:\Program Files (x86)\Beyond Compare 3\BCompare.exe&quot;" />
+    <mergeTool value="&quot;C:\Program Files (x86)\Beyond Compare 3\BCompare.exe&quot;" newValue="&quot;C:\Program Files (x86)\Beyond Compare 3\BCompare.exe&quot;" />
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
+  <component name="DiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
+              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings />
+      </entry>
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
+              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_EXE_PATH" value="&quot;C:\Program Files (x86)\Beyond Compare 3\BCompare.exe&quot;" />
+    <option name="DIFF_PARAMETERS" value="%1 %2 %3" />
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="&quot;C:\Program Files (x86)\Beyond Compare 3\BCompare.exe&quot;" />
+    <option name="MERGE_PARAMETERS" value="%1 %2 %3 %4" />
+    <option name="MERGE_TRUST_EXIT_CODE" value="true" />
+  </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+</application>

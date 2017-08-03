@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="bug-form-loader" type="JavaScript" />
+      <mapping pattern="versionCompare" type="JavaScript" />
+      <mapping pattern="api" type="JavaScript" />
+      <mapping pattern="withAureliaProp" type="JavaScript" />
+      <mapping pattern="redux-mock-store-umd" type="JavaScript" />
+      <mapping pattern="redux-mock-store-umd.js" type="PLAIN_TEXT" />
+      <mapping ext="config" type="XML" />
+    </extensionMap>
+  </component>
+</application>

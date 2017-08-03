@@ -1,0 +1,50 @@
+<templateSet group="octopus">
+  <template name="it" value="it('should do $IT$', () =&gt; {&#10;});" description="adds a it block" toReformat="true" toShortenFQNames="true">
+    <variable name="IT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="descr" value="describe('$IT$', () =&gt; {    &#10;});" description="adds a descibe block" toReformat="true" toShortenFQNames="true">
+    <variable name="IT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="&gt;&gt;" value="() =&gt; {}" description="adds a lambda" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="console.log('$C$');" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="C" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="imp" value="import {$WHAT$} from '$FROM$';" description="import" toReformat="false" toShortenFQNames="true">
+    <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHAT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+  <template name="__" value="import _ from 'lodash';" description="import lodash" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rcf" value="export function $NAME$() {&#10;  return &lt;div&gt;$NAME$&lt;/div&gt;;  &#10;}" description="React component as a function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rcc" value="export const $NAME$ = () =&gt; &lt;div&gt;$NAME$&lt;/div&gt;;" description="React component as a const" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
