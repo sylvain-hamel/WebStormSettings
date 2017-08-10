@@ -19,6 +19,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="9e2000" />
+        <option name="ERROR_STRIPE_COLOR" value="9e2000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -27,6 +28,12 @@
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value />
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="7a7a7a" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
     </option>
   </attributes>
 </scheme>
