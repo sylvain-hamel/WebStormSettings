@@ -25,9 +25,6 @@
       <mask>*.spec.</mask>
       <mask>*.spec.js</mask>
       <mask>*..js</mask>
-      <mask>*.j</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>pa</mask>
       <mask>pac</mask>
       <mask>packa</mask>
@@ -36,6 +33,9 @@
       <mask>package.j</mask>
       <mask>package.json</mask>
       <mask>*</mask>
+      <mask>*.j</mask>
+      <mask>*.*</mask>
+      <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
