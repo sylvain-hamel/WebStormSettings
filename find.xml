@@ -2,13 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>config.js</mask>
-      <mask>*.js,*.html, *.less</mask>
       <mask>*spec.js</mask>
       <mask>*.js, *.resx</mask>
       <mask>*.js, *.resx, *.html</mask>
@@ -35,8 +31,10 @@
       <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.son</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
