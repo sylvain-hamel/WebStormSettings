@@ -3,19 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.js, *.json" />
     <recentFileMasks>
-      <mask>*spec.js</mask>
-      <mask>*.js, *.resx</mask>
-      <mask>*.js, *.resx, *.html</mask>
-      <mask>*.js, *.resx, *.html, *.less</mask>
-      <mask>*.less</mask>
-      <mask>*.integ*</mask>
-      <mask>*/dist/*.js</mask>
-      <mask>*.js, *.resx, *.html, *.less, *.scss</mask>
-      <mask>*.scss</mask>
-      <mask>*.js, *.resx, *.html, *.less, *.scss, *.config, *.json</mask>
-      <mask>*.js, *.resx, *.html, *.less, *.scss, *.config</mask>
       <mask>*.spe</mask>
       <mask>*.spec</mask>
       <mask>*.spec.</mask>
@@ -34,7 +23,18 @@
       <mask>*.</mask>
       <mask>*.son</mask>
       <mask>*.json</mask>
+      <mask>*.js;</mask>
+      <mask>*.js; *</mask>
+      <mask>*.js; *.</mask>
+      <mask>*.js; *.j</mask>
+      <mask>*.js; *.json</mask>
+      <mask>*.js *.json</mask>
       <mask>*.js</mask>
+      <mask>*.js,</mask>
+      <mask>*.js, *</mask>
+      <mask>*.js, *.</mask>
+      <mask>*.js, *.j</mask>
+      <mask>*.js, *.json</mask>
     </recentFileMasks>
   </component>
 </application>
