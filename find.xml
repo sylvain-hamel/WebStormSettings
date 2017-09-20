@@ -9,18 +9,6 @@
     <option name="SEARCH_SCOPE" value="Changed Files" />
     <option name="FILE_MASK" value="*.js, *.json, *.html" />
     <recentFileMasks>
-      <mask>package.</mask>
-      <mask>package.j</mask>
-      <mask>package.json</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
-      <mask>*.son</mask>
-      <mask>*.json</mask>
-      <mask>*.js;</mask>
-      <mask>*.js; *</mask>
-      <mask>*.js; *.</mask>
       <mask>*.js; *.j</mask>
       <mask>*.js; *.json</mask>
       <mask>*.js *.json</mask>
@@ -38,6 +26,18 @@
       <mask>*.js, *.json;*.htm</mask>
       <mask>*.js, *.json;*.html</mask>
       <mask>*.js, *.json*.html</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.spac</mask>
+      <mask>*.spae</mask>
+      <mask>*.spe</mask>
+      <mask>*.spec</mask>
+      <mask>*.spec.</mask>
+      <mask>*.spec.js</mask>
+      <mask>*.sp</mask>
+      <mask>*.spaec</mask>
+      <mask>*.spa</mask>
+      <mask>*.spac.</mask>
       <mask>*.js, *.json, *.html</mask>
     </recentFileMasks>
   </component>
