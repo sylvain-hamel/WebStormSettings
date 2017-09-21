@@ -4,25 +4,12 @@
     <option name="defaultScopeName" value="Changed Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
-    <option name="FILE_MASK" value="*.js, *.json, *.html" />
     <recentFileMasks>
-      <mask>*.js; *.j</mask>
-      <mask>*.js; *.json</mask>
-      <mask>*.js *.json</mask>
-      <mask>*.js</mask>
-      <mask>*.js,</mask>
-      <mask>*.js, *</mask>
-      <mask>*.js, *.</mask>
-      <mask>*.js, *.j</mask>
-      <mask>*.js, *.json</mask>
-      <mask>*.js, *.json;</mask>
-      <mask>*.js, *.json;*</mask>
-      <mask>*.js, *.json;*.</mask>
-      <mask>*.js, *.json;*.h</mask>
-      <mask>*.js, *.json;*.ht</mask>
       <mask>*.js, *.json;*.htm</mask>
       <mask>*.js, *.json;*.html</mask>
       <mask>*.js, *.json*.html</mask>
@@ -38,7 +25,21 @@
       <mask>*.spaec</mask>
       <mask>*.spa</mask>
       <mask>*.spac.</mask>
+      <mask>*.js, *.json, *.tml</mask>
       <mask>*.js, *.json, *.html</mask>
+      <mask>*.js, *.json, *.html,</mask>
+      <mask>*.js, *.json, *.html, *</mask>
+      <mask>*.js, *.json, *.html, *.</mask>
+      <mask>*.js, *.json, *.html, *.s</mask>
+      <mask>*.js, *.json, *.html, *.sc</mask>
+      <mask>*.js, *.json, *.html, *.scs</mask>
+      <mask>*.js, *.json, *.html, *.scss</mask>
+      <mask>*.js, *.json, *.html, *.scss,</mask>
+      <mask>*.js, *.json, *.html, *.scss, *</mask>
+      <mask>*.js, *.json, *.html, *.scss, *.</mask>
+      <mask>*.js, *.json, *.html, *.scss, *.c</mask>
+      <mask>*.js, *.json, *.html, *.scss, *.cs</mask>
+      <mask>*.js, *.json, *.html, *.scss, *.css</mask>
     </recentFileMasks>
   </component>
 </application>
