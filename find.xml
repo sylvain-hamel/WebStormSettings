@@ -1,14 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.js, *.json, *.html, *.scss, *.css" />
     <recentFileMasks>
-      <mask>*.js, *.json;*.htm</mask>
-      <mask>*.js, *.json;*.html</mask>
-      <mask>*.js, *.json*.html</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.spac</mask>
@@ -35,6 +33,9 @@
       <mask>*.js, *.json, *.html, *.scss, *.</mask>
       <mask>*.js, *.json, *.html, *.scss, *.c</mask>
       <mask>*.js, *.json, *.html, *.scss, *.cs</mask>
+      <mask>*l, *.scss, *.css</mask>
+      <mask>*.l, *.scss, *.css</mask>
+      <mask>*.jsl, *.scss, *.css</mask>
       <mask>*.js, *.json, *.html, *.scss, *.css</mask>
     </recentFileMasks>
   </component>
