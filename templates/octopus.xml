@@ -58,4 +58,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="for" value="for (let i = 0; i &lt; $COL$; i++) {&#10;&#10;}" description="for" toReformat="false" toShortenFQNames="true">
+    <variable name="COL" expression="" defaultValue="collection.length" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
