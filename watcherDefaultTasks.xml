@@ -4,7 +4,7 @@
       <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-dir . --presets env" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="es6" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Babel" />
